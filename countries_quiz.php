@@ -52,7 +52,7 @@
       	CURLOPT_CUSTOMREQUEST => "GET",
       	CURLOPT_HTTPHEADER => [
       		"x-rapidapi-host: ajayakv-rest-countries-v1.p.rapidapi.com",
-      		"x-rapidapi-key: 5d7e6ede50msh4157653a7e11cc3p1f322ajsn0049ba59a514"
+      		"x-rapidapi-key: <KEY GOES HERE>"
       	],
       ]);
 
