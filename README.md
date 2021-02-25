@@ -37,6 +37,7 @@ If the email address is already used by another record in the database, the user
 
 
 **Countries Quiz**
+
 Requires a key from rapi-api. Put the key where it says <KEY GOES HERE>.
   
 cURLs data regarding countries and their capitals from rapid-api.
